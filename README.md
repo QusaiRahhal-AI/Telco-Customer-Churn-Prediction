@@ -5,7 +5,7 @@ An end-to-end Machine Learning pipeline designed to predict customer churn in a 
 
 ## Dataset
 - **Source:** Kaggle - Telco Customer Churn Dataset
-- **Dataset Link:** [Insert Kaggle Link Here]
+- **Dataset Link:** [https://www.kaggle.com/datasets/blastchar/telco-customer-churn/data]
 
 ## Pipeline Architecture & Methodology
 1. **Data Cleaning & Preprocessing:**
